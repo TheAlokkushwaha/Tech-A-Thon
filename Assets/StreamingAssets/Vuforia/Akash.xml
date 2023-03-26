@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ice" size="10.000000 9.115045" />
+    <ImageTarget name="diamond" size="10.000000 9.061947" />
+    <ImageTarget name="fulleren" size="10.000000 8.856153" />
+    <ImageTarget name="Oxygen" size="10.000000 9.912109" />
+    <ImageTarget name="chlorine" size="10.000000 9.930459" />
+    <ImageTarget name="Hydrogen-2" size="10.000000 9.960938" />
+    <ImageTarget name="Carbon" size="10.000000 9.951172" />
+    <ImageTarget name="bio" size="10.000000 9.885621" />
+  </Tracking>
+</QCARConfig>
